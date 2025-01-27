@@ -1,0 +1,2 @@
+# snarehub
+shitty roblox script
